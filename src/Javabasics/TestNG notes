@@ -1,0 +1,31 @@
+TestNg testing new generation framework
+it is unit testing framework used by developers
+unit level test cases with junit and testng
+HTML reports can be generated
+ 
+ purpose design test cases in proper systemtic cases
+ testng is open source --avilable in the form of jar files
+ 
+ java unit testing framework.
+ 
+ advantanges
+ -HTML reports
+ -Different annotations 
+ -sequence of the test case
+ -Dependency
+ -grouping 
+ -data provider  --- execute with multiple  set of dates 
+ 
+ Testng is also called TDD framework.
+ TDD--Test driven developement 
+ 
+ install testng in eclipse ---http://dl.bintray.com/testng-team/testng-eclipse-release/
+ 
+ No main method is required in TestNG
+ 
+ annotations:
+ prerequsite annotations
+ testcase annotation
+ post conditions annotation
+ 
+ Real time @beforeclass, before method, test
